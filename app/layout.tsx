@@ -3,9 +3,13 @@ import "@/app/globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 
 export const metadata = {
-  title: "Coming Soon | Modern 3D Experience",
-  description: "A modern 3D coming soon page with animations",
-    generator: 'v0.dev'
+  title: "Techeipedia",
+  description: "coming soon....",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
 }
 
 export default function RootLayout({
