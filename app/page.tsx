@@ -6,7 +6,7 @@ import dynamic from 'next/dynamic'
 import { Environment, PerspectiveCamera, OrbitControls, Text3D, Float } from "@react-three/drei"
 import { motion, AnimatePresence } from "framer-motion"
 import { Github, Twitter, Instagram, Code, Cpu, Database, Server, HardDrive } from "lucide-react"
-import * as THREE from "three"
+
 
 const Scene3D = dynamic(() => import('./components/Scene3D').then(mod => mod.Scene3D), {
   ssr: false
