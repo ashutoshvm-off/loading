@@ -243,9 +243,9 @@ export default function GTALaunchingScreen() {
           <div className="mb-8 relative">
             <h1
               className="gta-title text-7xl md:text-9xl font-extrabold tracking-tighter uppercase text-center glitch-text"
-              data-text="TECHEIPEDIA"
+              data-text="TECHIEPEDIA"
             >
-              <span className="text-white gta-text-shadow">TECHEI</span>
+              <span className="text-white gta-text-shadow">TECHIE</span>
               <span className="text-yellow-400 gta-text-shadow">PEDIA</span>
             </h1>
             <div className="absolute -top-4 right-0 bg-yellow-400 text-black px-2 py-1 text-xs font-bold transform rotate-12 uppercase">
