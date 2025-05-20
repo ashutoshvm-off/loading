@@ -223,7 +223,7 @@ export default function GTALaunchingScreen() {
       <div className="relative z-30 flex flex-col h-full w-full p-6 md:p-12">
         {/* Header */}
         <div className="flex justify-between items-center">
-          <div className="text-white font-bold text-xl md:text-2xl gta-text-shadow">TECHEIPEDIA</div>
+          <div className="text-white font-bold text-xl md:text-2xl gta-text-shadow">TECHIEPEDIA</div>
           <div className="flex space-x-4">
             <a href="#" className="text-white hover:text-yellow-400 transition-colors">
               <Github className="h-5 w-5" />
